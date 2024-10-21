@@ -1,0 +1,16 @@
+table {
+    border: 1px solid black;
+    background-color: chocolate;
+}
+
+h1 {
+    background-color: blueviolet;
+}
+th,tr{
+    text-align: center;
+    padding: 10px;
+}
+caption{
+    font-weight: bold;
+    text-align: center;
+}
