@@ -1,10 +1,10 @@
 table {
-    border: 1px solid black;
+    border: 1px solid rgb(224, 205, 205);
     background-color: chocolate;
 }
 
 h1 {
-    background-color: blueviolet;
+    background-color: gray;
 }
 th,tr{
     text-align: center;
