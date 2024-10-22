@@ -14,3 +14,24 @@ caption{
     font-weight: bold;
     text-align: center;
 }
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    color: brown;
+}
+
+
+<!-- -->
+
+h2{
+    background-color: rgb(194, 139, 139);
+}
+
+body{
+    background-image: url("photos/k.png");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
