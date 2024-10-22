@@ -1,37 +1,13 @@
-table {
-    border: 1px solid rgb(224, 205, 205);
-    background-color: chocolate;
+.a{
+    background-color: blue;
 }
-
-h1 {
-    background-color: gray;
+.b{
+    background-color: red;
 }
-th,tr{
+.c{
+    background-color: chartreuse;
+}
+.c{
+    color: rgb(21, 16, 5);
     text-align: center;
-    padding: 10px;
-}
-caption{
-    font-weight: bold;
-    text-align: center;
-}
-a:link{
-    text-decoration: none;
-}
-a:hover{
-    color: brown;
-}
-
-
-<!-- -->
-
-h2{
-    background-color: rgb(194, 139, 139);
-}
-
-body{
-    background-image: url("photos/k.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-
 }
